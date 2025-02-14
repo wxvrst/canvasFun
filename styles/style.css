@@ -6,6 +6,7 @@
 }
 body{
     background-color:black;
+    color:white;
 }
 canvas{
     border: 1px solid black;
