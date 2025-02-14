@@ -6,7 +6,7 @@
 }
 canvas{
     border: 1px solid black;
-    backgroundcolor: black;
+    background-color: black;
 }
 .angle, .size{
     display:flex;
