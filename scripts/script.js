@@ -9,7 +9,7 @@ let sizeY=24;
 let a=1.1;
 let x=document.getElementById("my_canvas").width/2;
 let y=document.getElementById("my_canvas").height*10/24;
-let colors=["red","orange","yellow","green","skyblue","blue","purple","black"];
+let colors=["red","orange","yellow","green","skyblue","blue","purple","/*black*/white"];
 const rectangle = new Path2D();
 function draw(){
     if(i===8){i=0;}
