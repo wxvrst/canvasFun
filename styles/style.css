@@ -1,0 +1,14 @@
+/*General*/
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+canvas{
+    border: 1px solid black;
+}
+.angle, .size{
+    display:flex;
+    margin:12px 24px 12px 24px;
+    gap:24px;
+}
